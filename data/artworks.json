@@ -1,0 +1,88 @@
+{
+  "artworks": [
+    {
+      "id": "1",
+      "title": "Misty Sunlight",
+      "description": "A celebration of what makes us uniquely human\u2014the limitless potential that sets us apart from all other life forms.",
+      "types": [
+        "watercolor",
+        "featured"
+      ],
+      "price": 450.0,
+      "dimensions": "16x20 inches",
+      "year": 2024,
+      "available": true,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675cc537a733114d27520bc3.png"
+    },
+    {
+      "id": "2",
+      "title": "Urban Dreams",
+      "description": "An abstract interpretation of city life through bold colors and flowing forms.",
+      "types": [
+        "mixed-media",
+        "large-canvas"
+      ],
+      "price": 800.0,
+      "dimensions": "36x48 inches",
+      "year": 2024,
+      "available": true,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675b6f701140a0a9c1709873.png"
+    },
+    {
+      "id": "3",
+      "title": "Morning Bloom",
+      "description": "Delicate florals captured in soft watercolor washes, evoking the freshness of spring.",
+      "types": [
+        "watercolor"
+      ],
+      "price": 320.0,
+      "dimensions": "12x16 inches",
+      "year": 2023,
+      "available": true,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675ed6f2ea029a31dca36219.png"
+    },
+    {
+      "id": "4",
+      "title": "Ethereal Landscape",
+      "description": "A dreamy landscape blending watercolor with gold leaf accents.",
+      "types": [
+        "watercolor",
+        "mixed-media",
+        "featured"
+      ],
+      "price": 650.0,
+      "dimensions": "24x30 inches",
+      "year": 2024,
+      "available": false,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675b64ac299a3d39e7003c7d.png"
+    },
+    {
+      "id": "5",
+      "title": "Ocean's Whisper",
+      "description": "Large-scale seascape with layers of blue and teal, capturing the movement of waves.",
+      "types": [
+        "watercolor",
+        "large-canvas",
+        "featured"
+      ],
+      "price": 1200.0,
+      "dimensions": "48x60 inches",
+      "year": 2024,
+      "available": true,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675d12f9109525801f5ca3d0.png"
+    },
+    {
+      "id": "6",
+      "title": "Abstract Emotions",
+      "description": "Mixed media exploration of color and texture using acrylics, paper, and found objects.",
+      "types": [
+        "mixed-media"
+      ],
+      "price": 550.0,
+      "dimensions": "20x24 inches",
+      "year": 2023,
+      "available": true,
+      "image_url": "https://storage.googleapis.com/msgsndr/XhzlIutsTlqBJGSjbyUL/media/675b3cfd299a3dc92d00041e.jpeg"
+    }
+  ]
+}
